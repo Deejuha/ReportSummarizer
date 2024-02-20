@@ -1,1 +1,1 @@
-Small tool to help you out to create summary tables of security testing reports where you put styles as findings.
+Small script to help me out to create summary tables of security testing reports in word *.docx format.
